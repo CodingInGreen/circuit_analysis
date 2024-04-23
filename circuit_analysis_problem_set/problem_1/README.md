@@ -12,10 +12,11 @@
 4. Apply device equations (such as Ohm’s law for resistors) and then substitute the device equations into the connection equations.
 5. Solve for the voltage and current for any device.
 
+### Label and Assign Current Directions
 
 ![Problem 1](problem-1-a.png)
 
-### Equations:
+### Use Equations:
 
 ![Problem 1](problem-1-b.png)
 
