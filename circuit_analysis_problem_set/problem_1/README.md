@@ -1,6 +1,6 @@
 # Problem 1
 
-A series circuit with 3 devices.
+### A circuit with 3 devices.
 
 - 10 V Power Source
 - Resistor 1 = 3kΩ
@@ -12,7 +12,10 @@ A series circuit with 3 devices.
 4. Apply device equations (such as Ohm’s law for resistors) and then substitute the device equations into the connection equations.
 5. Solve for the voltage and current for any device.
 
-(1 and 2)
 
-![Problem 1](problem-1.png)
+![Problem 1](problem-1-a.png)
+
+### Equations:
+
+![Problem 1](problem-1-b.png)
 
