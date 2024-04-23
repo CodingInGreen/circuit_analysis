@@ -1,3 +1,3 @@
 # Problem 1
 
-![problem-1](../..images/problem-1.png)
+![Circuit Analysis Problem 1](circuit_analysis/circuit_analysis_problem_set/problem_1/images/problem-1.png)
