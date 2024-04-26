@@ -2,9 +2,9 @@
 
 ### A circuit with a current at a voltage source and resistors both in series and in parallel
 
-- Resistor 1 = 10kΩ
-- Resistor 2 = 10kΩ
-- Resistor 3 =  5kΩ
+- Resistor (R)  =  4kΩ
+- Resistor (R1) =  6kΩ
+- Resistor (R2) = 10kΩ
 - Current at Voltage Source = 5mA
 
 Given a current at the voltage source, use the voltage divider technique to find the voltages across the resistors.
