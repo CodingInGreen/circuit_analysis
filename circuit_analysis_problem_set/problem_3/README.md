@@ -9,10 +9,14 @@
 
 Given a current at the voltage source, use the voltage divider technique to find the voltages across the resistors.
 
-### First transform Circuit A into Circuit B
+### Voltage Divider Equation
 
 ![Problem 3](problem-3-a.png)
 
-### Use the voltage divider technique
+### First transform Circuit A into Circuit B
 
 ![Problem 3](problem-3-b.png)
+
+### Use the voltage divider technique
+
+![Problem 3](problem-3-c.png)
