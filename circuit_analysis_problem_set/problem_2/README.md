@@ -2,9 +2,9 @@
 
 ### 3 resistors connected in parallel
 
-- Resistor 1 = 10kΩ
-- Resistor 2 = 10kΩ
-- Resistor 3 =  5kΩ
+- Resistor (R1) = 10kΩ
+- Resistor (R2) = 10kΩ
+- Resistor (R3) =  5kΩ
 
 ![Problem 2](problem-2-a.png)
 

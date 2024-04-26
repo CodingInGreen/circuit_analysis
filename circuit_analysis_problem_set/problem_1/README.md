@@ -3,8 +3,8 @@
 ### A circuit with 3 devices.
 
 - 10 V Power Source
-- Resistor 1 = 3kΩ
-- Resistor 2 = 7kΩ
+- Resistor (R1) = 3kΩ
+- Resistor (R2) = 7kΩ
 
 1. Label the device terminals with the proper voltage polarities (+ and –) and voltage variables.
 2. Assign the directions of the currents for the given circuit.
