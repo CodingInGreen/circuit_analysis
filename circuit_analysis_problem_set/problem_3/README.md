@@ -1,6 +1,6 @@
 # Problem 3
 
-### A cicuit with a current at a voltage source and resistors both in series and in parallel
+### A circuit with a current at a voltage source and resistors both in series and in parallel
 
 - Resistor 1 = 10kΩ
 - Resistor 2 = 10kΩ
