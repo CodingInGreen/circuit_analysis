@@ -6,10 +6,10 @@ Resistivity is a property unique to a material.
 
 ![Problem 5](resistivity-1-a.png)
 
-p = resistivity
-A = crosss-sectioal area
-L = length
-R = overall resistance of the material, as measured across its length
+- p = resistivity
+- A = crosss-sectioal area
+- L = length
+- R = overall resistance of the material, as measured across its length
 
 ### Conductivity
 
@@ -19,7 +19,7 @@ Conductivity is the inverse of resistivity.
 
 Conductivity is measured in siemens (S).
 
-Ohm's Law rewritten.
+### Ohm's Law rewritten.
 
 ![Problem 5](ohms-law-rewritten-1-c.png)
 
