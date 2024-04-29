@@ -3,7 +3,7 @@
 ### Thevenin's Theorem
 
 If two terminals are of interest, these two terminals can 
-be extracted from the comp;lex circuit, and the rest of the
+be extracted from the complex circuit, and the rest of the
 circuit can be considered a black box.
 
 ### Consider the following circuit
